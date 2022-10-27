@@ -17,7 +17,7 @@ Web API project that will tell the user whether the number they entered via the 
 7. At this point you're almost done! Just add a /OddOrEven/yourNumberHere (but with your preferred number of course) at the end of the URL and press send! For example my URL would look like this: https://localhost:7178/MiniCh7/OddOrEven/11
 8. If you're having trouble don't forget to check your local host to make sure you're using the right number and ensure that you ran the debug before attempting to use the URL in your web browser or Postman.
 
-*Directions step 6 - What the instructions page will look like when you enter https://localhost:7242/MiniCh6 into Postman or a web browser*
+*Directions step 6 - What the instructions page will look like when you enter https://localhost:7178/MiniCh7 into Postman or a web browser*
 
 Enter in a number after the localhost URL and I'll tell you if it's odd or even!
 
